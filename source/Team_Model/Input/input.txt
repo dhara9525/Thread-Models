@@ -1,0 +1,16 @@
+Type of Resources: 4
+Number of Clients: 5
+Existing Resources: 6 3 4 2
+Resources Assigned:
+3 0 1 1
+0 1 0 0
+1 1 1 0
+1 1 0 1
+0 0 0 0
+Resources still to be assigned:
+1 1 0 0
+0 1 1 2
+3 1 0 0
+0 0 1 0
+2 1 1 0
+
